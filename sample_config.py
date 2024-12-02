@@ -31,9 +31,9 @@ class Config(object):
     # if any of the platform, does not work
     # please reopen
     # https://github.com/LushaiTech/MyTelegramORG/issues/3
-    APP_DESCRIPTION = os.environ.get("APP_DESCRIPTION", "created using https://telegram.dog/TGDXBot")
+    APP_DESCRIPTION = os.environ.get("APP_DESCRIPTION", "created using https://t.me/OmenXD_B1NS)
     #
-    FOOTER_TEXT = os.environ.get("FTEXT", "Made With ❤ By @TeleRoidGroup")
+    FOOTER_TEXT = os.environ.get("FTEXT", "Made With ❤ By @mR_oMeNxD")
     # the strings used in the different messages
     # in the bot
     START_TEXT = os.environ.get("START_TEXT", Translation.START_TEXT)
