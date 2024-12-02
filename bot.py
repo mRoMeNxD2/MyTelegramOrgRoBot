@@ -73,14 +73,14 @@ def start(update, context):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('⚠️ Disclaimer', url='https://t.me/TeleRoidGroup/313'),
-                    InlineKeyboardButton('Source 😋', url='https://github.com/PredatorHackerzZ/MyTelegramOrgRoBot')
+                    InlineKeyboardButton('⚠️ Instagram', url='https://www.instagram.com/mr_omenxd'),
+                    InlineKeyboardButton('Source 😋', url='https://t.me/OmenXD_B1NS')
               ],[
-                    InlineKeyboardButton('🤖BotsList', url='https://t.me/joinchat/t1ko_FOJxhFiOThl'),
-                    InlineKeyboardButton('👥Support', url='https://telegram.dog/TeleRoid14'),
-                    InlineKeyboardButton('⭕ Channel', url='https://t.me/TeleRoidGroup')
+                    InlineKeyboardButton('🤖Support', url='https://t.me/OmenXD_Support'),
+                    InlineKeyboardButton('👥Support', url='https://t.me/+fiEOBMn_hBxjNmRl'),
+                    InlineKeyboardButton('⭕Channel', url='https://t.me/OmenXD_B1NS')
               ],[
-                    InlineKeyboardButton('» Subscribe Now YouTube «', url='https://youtu.be/hl6yGmUtm3w')
+                    InlineKeyboardButton('» Join Our Backup «', url='https://t.me/OmenXD_Support)
                ]
             ]
         )
@@ -183,14 +183,14 @@ def input_tg_code(update, context):
                 reply_markup=InlineKeyboardMarkup(
                     [
                 [
-                    InlineKeyboardButton('⚠️ Disclaimer', url='https://t.me/TeleRoidGroup/313'),
-                    InlineKeyboardButton('Source 😋', url='https://github.com/PredatorHackerzZ/MyTelegramOrgRoBot')
+                    InlineKeyboardButton('⚠️ Instagram', url='https://www.instagram.com/mr_omenxd'),
+                    InlineKeyboardButton('Source 😋', url='https://t.me/OmenXD_B1NS')
               ],[
-                    InlineKeyboardButton('🤖BotsList', url='https://t.me/joinchat/t1ko_FOJxhFiOThl'),
-                    InlineKeyboardButton('👥Support', url='https://telegram.dog/TeleRoid14'),
-                    InlineKeyboardButton('⭕ Channel', url='https://t.me/TeleRoidGroup')
+                    InlineKeyboardButton('🤖Support', url='https://t.me/OmenXD_Support'),
+                    InlineKeyboardButton('👥Support', url='https://t.me/+fiEOBMn_hBxjNmRl'),
+                    InlineKeyboardButton('⭕Channel', url='https://t.me/OmenXD_B1NS')
               ],[
-                    InlineKeyboardButton('» Subscribe Now YouTube «', url='https://youtu.be/hl6yGmUtm3w')
+                    InlineKeyboardButton('» Join Our Backup «', url='https://t.me/OmenXD_Support)
                ]
             ]
                 )
